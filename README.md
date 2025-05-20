@@ -1,2 +1,2 @@
 # projecto_cursor1
-el primero de los proyctos
+el primero de los proyectos
